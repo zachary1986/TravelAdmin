@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Travel Admin</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="/Content/CSS/style-metronic.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/CSS/style.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/CSS/style-responsive.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/CSS/plugins.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/CSS/themes/default.css" rel="stylesheet" type="text/css" id="style_color" />
+    <link href="/Content/CSS/pages/login-soft.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/CSS/custom.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="login">
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

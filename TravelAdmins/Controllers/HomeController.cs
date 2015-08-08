@@ -26,5 +26,12 @@ namespace TravelAdmins.Controllers
 
             return View();
         }
+
+        public string LoginCheck(string uname, string pwd)
+        {
+            string str = string.Empty;
+            str = "test";
+            return str;
+        }
     }
 }
