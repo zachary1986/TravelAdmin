@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAdmins", "TravelAdmins\TravelAdmins.csproj", "{3D449553-5270-4C46-B5E2-B51EACEAE79F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminTravel.Common", "AdminTravel.Common\AdminTravel.Common.csproj", "{9BEF6C15-D229-4F53-AB60-B0BE528A37D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{9C93D2F0-3ECE-4185-8598-46DDD87B786B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{3D449553-5270-4C46-B5E2-B51EACEAE79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D449553-5270-4C46-B5E2-B51EACEAE79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D449553-5270-4C46-B5E2-B51EACEAE79F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9BEF6C15-D229-4F53-AB60-B0BE528A37D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9BEF6C15-D229-4F53-AB60-B0BE528A37D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9BEF6C15-D229-4F53-AB60-B0BE528A37D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9BEF6C15-D229-4F53-AB60-B0BE528A37D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C93D2F0-3ECE-4185-8598-46DDD87B786B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C93D2F0-3ECE-4185-8598-46DDD87B786B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C93D2F0-3ECE-4185-8598-46DDD87B786B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C93D2F0-3ECE-4185-8598-46DDD87B786B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
