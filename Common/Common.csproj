@@ -61,6 +61,7 @@
     <Compile Include="ImageTools.cs" />
     <Compile Include="InjectionFilter.cs" />
     <Compile Include="MailSender.cs" />
+    <Compile Include="MD5Opr.cs" />
     <Compile Include="MessageBox.cs" />
     <Compile Include="Page.cs" />
     <Compile Include="PageValidate.cs" />
